@@ -4,3 +4,10 @@
 <a href="https://amapola-negra.github.io/Portfolio/#profile" target="_blank">See my portfolio</a>
 
 <a href="https://amapola-negra.github.io/Portfolio/#profile" target="_blank"><img src="images/PARA-PORTFOLIO.PNG"></a>
+<hr>
+<h2>Projects</h2>
+<h3>Scrimba projects</h3>
+<ul>
+<li><a href="https://amapola-negra.github.io/Hometown-repo/ target="_blank">Hometown</a></li>
+</ul>
+
