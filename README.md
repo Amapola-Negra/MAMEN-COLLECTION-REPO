@@ -8,6 +8,6 @@
 <h2>Projects</h2>
 <h3>Scrimba projects</h3>
 <ul>
-<li><a href="https://amapola-negra.github.io/Hometown-repo/ target="_blank">Hometown</a></li>
+<li><a href="https://amapola-negra.github.io/Hometown-repo/" target="_blank">Hometown</a></li>
 </ul>
 
