@@ -11,3 +11,7 @@
 <li><a href="https://amapola-negra.github.io/Hometown-repo/" target="_blank">Hometown</a></li>
 </ul>
 
+<h3>Self study projects</h3>
+<ul>
+  <li><a href="https://amapola-negra.github.io/Mamen-Gallery-repo/" targer="_blank">Mamen's galery</a></li>
+</ul>
