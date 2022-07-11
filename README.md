@@ -8,7 +8,8 @@
 <h2>Projects</h2>
 <h3>Scrimba projects</h3>
 <ul>
-<li><a href="https://amapola-negra.github.io/Hometown-repo/" target="_blank">Hometown</a></li>
+  <li><a href="https://amapola-negra.github.io/INVOICE-CREATOR-REPO/" target="_blank">Invoice creator</a></li>
+  <li><a href="https://amapola-negra.github.io/Hometown-repo/" target="_blank">Hometown</a></li>
 </ul>
 
 <h3>Self study projects</h3>
