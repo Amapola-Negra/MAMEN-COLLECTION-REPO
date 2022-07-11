@@ -18,5 +18,5 @@ As part of the <strong>Frontend Career Path</strong>
 
 <h3>Self study projects</h3>
 <ul>
-  <li><a href="https://amapola-negra.github.io/Mamen-Gallery-repo/" targer="_blank">Mamen's galery</a></li>
+  <li><a href="https://github.com/Amapola-Negra/Mamen-Gallery-repo/" targer="_blank">Mamen's galery</a></li>
 </ul>
